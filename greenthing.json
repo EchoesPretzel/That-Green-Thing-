@@ -1,6 +1,6 @@
 [
   {
-    "": "Zucchini",
+    "Name": "Zucchini",
     "Color": "Green",
     "Size": "6-8 Inches",
     "Where to Find": "Produce",
@@ -8,7 +8,7 @@
     "Flavor": "Slightly sweet and slightly bitter"
   },
   {
-    "": "Yellow Squash",
+    "Name": "Yellow Squash",
     "Color": "Yellow/Green",
     "Size": "Up to 10 inches",
     "Where to Find": "Produce",
@@ -16,7 +16,7 @@
     "Flavor": "Nutty Sweet"
   },
   {
-    "": "Cucumber",
+    "Name": "Cucumber",
     "Color": "Dark Green",
     "Size": "12-14 Inches",
     "Where to Find": "Produce",
@@ -24,7 +24,7 @@
     "Flavor": "Bitter, Refreshing"
   },
   {
-    "": "Pickle",
+    "Name": "Pickle",
     "Color": "Swamp Green",
     "Size": "1-5 Inches",
     "Where to Find": "In Jars",
