@@ -1,34 +1,34 @@
 [
   {
     "Name": "Zucchini",
-    "Color": "Green",
-    "Size": "6-8 Inches",
-    "Where to Find": " The Produce Section",
-    "Price": "3$",
-    "Flavor": "Slightly sweet and slightly bitter"
+    "Color": "green",
+    "Size": "6-8 inches",
+    "Where to Find": " the produce section",
+    "Price": "$3",
+    "Flavor": "slightly sweet and slightly bitter"
   },
   {
     "Name": "Yellow Squash",
-    "Color": "Yellow/Green",
-    "Size": "Up to 10 inches",
-    "Where to Find": "The Produce Section",
-    "Price": "2$",
-    "Flavor": "Nutty Sweet"
+    "Color": "yellow/green",
+    "Size": "up to 10 inches",
+    "Where to Find": "the produce section",
+    "Price": "$2",
+    "Flavor": "nutty sweet"
   },
   {
     "Name": "Cucumber",
-    "Color": "Dark Green",
-    "Size": "12-14 Inches",
-    "Where to Find": "The Produce Section",
-    "Price": "1$",
-    "Flavor": "Bitter, Refreshing"
+    "Color": "dark green",
+    "Size": "12-14 inches",
+    "Where to Find": "the produce section",
+    "Price": "$1",
+    "Flavor": "bitter, refreshing"
   },
   {
     "Name": "Pickle",
-    "Color": "Swamp Green",
-    "Size": "1-5 Inches",
-    "Where to Find": "Jar Food and Canned Food Section",
-    "Price": "3$",
-    "Flavor": "Salty, slightly Sour"
+    "Color": "swamp green",
+    "Size": "1-5 inches",
+    "Where to Find": "jar food and canned food section",
+    "Price": "$3",
+    "Flavor": "salty, slightly sour"
   }
 ]
