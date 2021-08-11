@@ -3,7 +3,7 @@
     "Name": "Zucchini",
     "Color": "Green",
     "Size": "6-8 Inches",
-    "Where to Find": "Produce",
+    "Where to Find": " The Produce Section",
     "Price": "3$",
     "Flavor": "Slightly sweet and slightly bitter"
   },
@@ -11,7 +11,7 @@
     "Name": "Yellow Squash",
     "Color": "Yellow/Green",
     "Size": "Up to 10 inches",
-    "Where to Find": "Produce",
+    "Where to Find": "The Produce Section",
     "Price": "2$",
     "Flavor": "Nutty Sweet"
   },
@@ -19,7 +19,7 @@
     "Name": "Cucumber",
     "Color": "Dark Green",
     "Size": "12-14 Inches",
-    "Where to Find": "Produce",
+    "Where to Find": "The Produce Section",
     "Price": "1$",
     "Flavor": "Bitter, Refreshing"
   },
@@ -27,7 +27,7 @@
     "Name": "Pickle",
     "Color": "Swamp Green",
     "Size": "1-5 Inches",
-    "Where to Find": "In Jars",
+    "Where to Find": "Jar Food and Canned Food Section",
     "Price": "3$",
     "Flavor": "Salty, slightly Sour"
   }
